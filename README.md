@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/nakul-rathore-86699b295/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://27-NakulRathore.github.io/">
+  <a href="https://github.com/27-NakulRathore">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
   </a>
   <a href="mailto:nakulr950@google.com">
