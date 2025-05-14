@@ -19,7 +19,7 @@
   <a href="https://27-NakulRathore.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
   </a>
-  <a href="mailto:nakulr950@example.com">
+  <a href="mailto:nakulr950@google.com">
     <img src="https://img.shields.io/badge/Email-Mail Me-red?style=for-the-badge" />
   </a>
 </p>
@@ -93,9 +93,9 @@
 <!-- Footer -->
 ### 📫 Connect with Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-id](https://www.linkedin.com/in/nakul-rathore-86699b295)  
-- 🌐 Portfolio: [your-github-username.github.io](https://27-NakulRathore.github.io/)
+- 📧 Email: nakule950@google.com  
+- 💼 LinkedIn: [linkedin.com/in/nakul-rathore](https://www.linkedin.com/in/nakul-rathore-86699b295)  
+- 🌐 Portfolio: [27-NakulRathore.github.io](https://27-NakulRathore.github.io/)
 
 ---
 
