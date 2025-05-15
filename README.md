@@ -93,7 +93,7 @@
 <!-- Footer -->
 ### 📫 Connect with Me
 
-- 📧 Email: nakule950@google.com  
+- 📧 Email: nakulr950@google.com  
 - 💼 LinkedIn: [linkedin.com/in/nakul-rathore](https://www.linkedin.com/in/nakul-rathore-86699b295)  
 - 🌐 Portfolio: [27-NakulRathore.github.io](https://27-NakulRathore.github.io/)
 
