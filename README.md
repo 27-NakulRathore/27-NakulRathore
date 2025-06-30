@@ -72,7 +72,7 @@
 - 🧑‍🌾 **[CropBoom - Crop Marketplace](https://github.com/sharmmohit/Online_farmer_Crop_Marketplace)**  
   `React` • `Spring Boot` • `MySQL`
 
-- 🅿️ **[Tic-Tac-Toe]([https://github.com/your-repo-link](https://github.com/27-NakulRathore/Tic-Tac-Toe.git))**  
+- 🅿️ **[Tic-Tac-Toe](https://github.com/27-NakulRathore/Tic-Tac-Toe.git)**  
   `Javascript` • `Bootstrap` • `CSS`
 
 ---
@@ -95,7 +95,7 @@
 
 - 📧 Email: nakulr950@google.com  
 - 💼 LinkedIn: [linkedin.com/in/nakul-rathore](https://www.linkedin.com/in/nakul-rathore-86699b295)  
-- 🌐 Portfolio: [27-NakulRathore.github.io]((https://27-nakulrathore.github.io/Portfolio---Latest/#portfolio))
+- 🌐 Portfolio: [27-NakulRathore.github.io](https://27-nakulrathore.github.io/Portfolio---Latest/#portfolio)
 
 ---
 
