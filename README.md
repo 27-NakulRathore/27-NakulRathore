@@ -74,7 +74,7 @@
 - Real-time communication with persistent chat history
 - Room-based entry, avatars, and responsive UI
 
-### 📚 [Book Management System]()
+### 📚 [Book Management System](https://github.com/27-NakulRathore?tab=repositories)
 - Java Web App using **JSP/Servlets + MySQL**
 - Complete CRUD operations with clean MVC structure
 
