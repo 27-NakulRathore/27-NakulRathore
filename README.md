@@ -84,7 +84,7 @@
 ## 🏆 Achievements
 
 - 🏅 NPTEL Certified in **DSA with Java** & **DBMS**
-- 💻 Solved **300+ coding problems** on LeetCode & HackerRank
+- 💻 Solved **250+ coding problems** on LeetCode & HackerRank
 - 👨‍💻 Participated in **Moonstone Hackathon 2K25**
 - 🎓 Completed **Deloitte Virtual Experience Program** (Forage)
 
